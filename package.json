@@ -3,7 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@react-meetup/ui-kit.typography.heading": "^0.0.2",
+    "@react-meetup/ui-kit.buttons.button": "^0.0.3",
+    "@react-meetup/ui-kit.code": "^0.0.1",
+    "@react-meetup/ui-kit.container": "^0.0.1",
+    "@react-meetup/ui-kit.hero": "^0.0.3",
+    "@react-meetup/ui-kit.toolbar": "^0.0.3",
+    "@react-meetup/ui-kit.typography.heading": "^0.0.4",
+    "@react-meetup/ui-kit.typography.text": "^0.0.2",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -13,7 +19,7 @@
     "@types/react-dom": "^17.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "typescript": "^4.7.3",
     "web-vitals": "^2.1.4"
   },
