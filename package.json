@@ -9,6 +9,7 @@
     "@gle/base-ui.emoji-feedback": "^0.0.17",
     "@gle/base-ui.loader": "^1.0.18",
     "@gle/base-ui.logo": "^0.0.6",
+    "@gle/base-ui.surfaces.card": "^0.0.17",
     "@gle/base-ui.theme-provider": "^1.0.13",
     "@gle/base-ui.tooltip": "^0.0.26",
     "@gle/base-ui.typography.chip": "^0.0.12",

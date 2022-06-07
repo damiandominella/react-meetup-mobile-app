@@ -1,5 +1,6 @@
 import { Button } from "@gle/base-ui.buttons.button";
 import { EmojiFeedback } from "@gle/base-ui.emoji-feedback";
+import { Card } from "@gle/base-ui.surfaces.card";
 import { Theme } from "@gle/base-ui.theme-provider";
 import { Chip } from "@gle/base-ui.typography.chip";
 import { Heading } from "@gle/base-ui.typography.heading";
@@ -28,6 +29,8 @@ function App() {
 
         <br />
         <EmojiFeedback title="How would you rate bit.dev?" />
+
+        <Card>I'm a card</Card>
       </div>
     </Theme>
   );
